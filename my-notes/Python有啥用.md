@@ -4,7 +4,7 @@
 
 
 
-## Web Development
+## 1. Web Development
 
 当前流行的基于 Python 的网页框架有 **Django** 和 **Flask**。这些框架可以帮助你用 Python 创建后端（服务端）代码。
 
@@ -39,7 +39,7 @@
 
 
 
-## Data Science — including machine learning, data analysis, and data visualization
+## 2. Data Science — including machine learning, data analysis, and data visualization
 
 ### 什么是机器学习
 
@@ -90,6 +90,38 @@ Python 有流行的机器学习库和框架，其中最流行的是 **scikit-lea
 
 
 ### 数据分析和数据可视化怎么样呢？
+
+工作思路：
+
+1. 拉出一组数据，做出图表
+2. 猜测这组数据中导致几个变量差异的原因
+3. 根据不同猜测，分别做出不同图表，逐一排除
+4. 得出最终原因
+
+我再 Google 用 Python，在 Microsoft 用 JavaScript 处理这类分析。我在这两家公司都用 SQL 从数据库中拉数据。然后我用 Python 和 Matplotlib（在 Google）或者 JavaScript 和 D3.js（在 Microsoft）可视化和分析这些数据。
+
+### 用 Python 分析/可视化数据
+
+数据可视化中最流行的一个库是 [Matplotlib](https://matplotlib.org/)。
+
+这是一个很好的开始，因为：
+
+- 非常容易开始
+- 一些其他的库比如 [seaborn](https://seaborn.pydata.org/) 是基于此的，所以学习它有助于以后你学别的库
+
+#### 我该如何学习用 Python 数据分析/可视化
+
+首先学习数据分析和可视化的原理，我在网上找不到任何有关内容，所以我做了 YouTube 视频。
+
+我还最终在 [Pluralsight](https://goo.gl/fZ5oVX) 上完成了关于该主题的完整课程，您可以通过注册他们的10天免费试用版来免费学习。
+
+两个我都推荐
+
+之后再学习网站统计的原理，Coursera 和 Khan Academy  都很好。
+
+
+
+## 3. Scripting
 
 
 
